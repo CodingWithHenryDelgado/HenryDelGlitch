@@ -8,7 +8,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently an intern at The Lifedu!
-- 🌱 I’m currently learning Full-Stack (97% on Codecademy)
+- 🌱 I’m currently learning Full-Stack (97% on Codecademy), and Wordpress!
 - 😄 Pronouns: He/him
 - :sunny: Always open to collabs and jobs!
 - :zap: I love Mob Pyscho 100 and DBD
+- :smile: My skills involve HTML, CSS, Javascript, React, Redux, and Postgres
