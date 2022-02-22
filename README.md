@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 - :sunny: Always open to collabs and jobs!
 - :zap: I love Mob Pyscho 100 and DBD
-- :smile: My skills involve HTML, CSS, Javascript, React, Redux, and Postgres
+- :smile: My skills involve HTML, CSS, JavaScript, React, Redux, and Postgres
