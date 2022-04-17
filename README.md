@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently an intern at The Lifedu!
+- 🔭 I’m currently looking for a Junior position!
 - 🌱 I’m a Front End Developer!
 - 😄 Pronouns: He/him
 - :sunny: Always open to collabs and jobs!
