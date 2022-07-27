@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently looking for a Junior position!
+- 🔭 Currently working for Center Centre as a HTML Developer.
 - 🌱 I’m a Front End Developer!
 - 😄 Pronouns: He/him
 - :sunny: Always open to collabs and jobs!
 - :zap: I love Mob Pyscho 100 and DBD
-- :smile: My skills involve HTML, CSS, JavaScript, React, Redux, and Postgres
+- :smile: My skills involve HTML, CSS, JavaScript, React, Redux, PHP, and WordPress.
