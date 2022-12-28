@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Currently working for Center Centre as a Web Developer.
-- 🌱 I’m a Front End Developer!
+- 🌱 I’m a Web Developer.
 - 😄 Pronouns: He/him
 - :sunny: Always open to collabs and jobs!
 - :zap: I love Mob Pyscho 100 and DBD!
