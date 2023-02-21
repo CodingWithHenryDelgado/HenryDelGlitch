@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 Currently working for Center Centre as a Web Developer!
+- 🔭 Currently looking for a Front End Developer position!
 - 🌱 I’m a Web Developer!
 - 😄 Pronouns: He/him
 - :sunny: Always open to collabs and jobs!
