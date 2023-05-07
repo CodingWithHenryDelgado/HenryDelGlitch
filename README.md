@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 Working as a Web Developer @ SUCO Web Masters!
+- 🤓 Working as a Web Developer @ SUCO Web Masters!
 - 🌱 I’m a Web Developer!
 - 😄 Pronouns: He/him 
 - :sunny: Always open to collabs and jobs.
