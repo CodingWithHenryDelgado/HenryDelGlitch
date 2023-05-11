@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 -->
 
 - 🤓 Working as a Web Developer @ SUCO Web Masters!
-- 🌱 I’m a Web Developer!
 - 😄 Pronouns: He/him 
 - :sunny: Always open to collabs and jobs.
 - :zap: I love Mob Pyscho 100 and DBD.
